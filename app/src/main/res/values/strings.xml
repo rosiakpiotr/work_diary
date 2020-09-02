@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Dziennik Pracy</string>
+    <string name="free_day">Wolne</string>
+    <string name="work_day">Praca</string>
+    <string name="pay_day">Wypłata</string>
+    <string name="day_editor_top_text_placeholder">Oznacz dzień</string>
+    <string name="notes">Notatki</string>
+
+    <string name="material_calendar_monday">Pon</string>
+    <string name="material_calendar_tuesday">Wt</string>
+    <string name="material_calendar_wednesday">Śr</string>
+    <string name="material_calendar_thursday">Czw</string>
+    <string name="material_calendar_friday">Pt</string>
+    <string name="material_calendar_saturday">Sob</string>
+    <string name="material_calendar_sunday">Niedz</string>
+
+    <array name="material_calendar_months_array">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
+    </array>
+
+    <string name="material_calendar_today_button">Dzisiaj</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Anuluj</string>
+
+    <string name="note_hint">Miejsce na notatkę</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+
+</resources>
